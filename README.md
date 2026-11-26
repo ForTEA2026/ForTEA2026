@@ -19,24 +19,6 @@
 
 <div align="center">
 
-## 📊 Gráfico de contribuições
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParaTEA2026&bg_color=0D1117&color=6395EE&line=6395EE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-<br>
-
-## 📈 Estatísticas do GitHub
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ParaTEA2026&show_icons=true&theme=radical&hide_border=true&title_color=6395EE&icon_color=6395EE"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParaTEA2026&layout=compact&theme=radical&hide_border=true&title_color=6395EE"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParaTEA2026&theme=radical&hide_border=true&ring=6395EE&fire=EA638C&currStreakLabel=6395EE" width="80%"/>
-
-</div>
-
 ---
 
 ## 🌸 Sobre o ForTEA
