@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:EA638C,100:F4A3B8&height=100&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:#6395EE,100:F4A3B8&height=100&section=header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=3000&pause=1000&color=EA638C&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+ForTEA!;Inclus%C3%A3o%2C+respeito+e+acessibilidade;Juntos+pela+inclus%C3%A3o!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=3000&pause=1000&color=6395EE&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+ForTEA!;Inclus%C3%A3o%2C+respeito+e+acessibilidade;Juntos+pela+inclus%C3%A3o!"/>
 
 <br>
 
@@ -21,19 +21,19 @@
 
 ## 📊 Gráfico de contribuições
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParaTEA2026&bg_color=000080&color=000080&line=000080&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParaTEA2026&bg_color=0D1117&color=6395EE&line=6395EE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <br>
 
 ## 📈 Estatísticas do GitHub
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ParaTEA2026&show_icons=true&theme=radical&hide_border=true&title_color=000080&icon_color=000080"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ParaTEA2026&show_icons=true&theme=radical&hide_border=true&title_color=6395EE&icon_color=6395EE"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParaTEA2026&layout=compact&theme=radical&hide_border=true&title_color=000080"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParaTEA2026&layout=compact&theme=radical&hide_border=true&title_color=6395EE"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParaTEA2026&theme=radical&hide_border=true&ring=000080&fire=000080&currStreakLabel=000080" width="80%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParaTEA2026&theme=radical&hide_border=true&ring=6395EE&fire=EA638C&currStreakLabel=6395EE" width="80%"/>
 
 </div>
 
@@ -64,6 +64,6 @@ Nosso propósito é oferecer um espaço informativo e acessível, com recursos q
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:000080,100:000080&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:6395EE,100:F4A3B8&height=100&section=footer"/>
 
 </div>
