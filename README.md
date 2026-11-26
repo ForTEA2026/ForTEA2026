@@ -1,10 +1,8 @@
 
 <div align="center">
 
-<!-- Onda em movimento contínuo (Azul/Roxo) -->
-<div align="center">
-  <img width="100%" src="https://vercel.app" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0F3A87,100:F4A3B8&height=100&section=header"/>
+
 
 <br>
 
@@ -49,9 +47,6 @@ Nosso propósito é oferecer um espaço informativo e acessível, com recursos q
 
 <br><br>
 
-<!-- Onda em movimento contínuo (Azul/Roxo) -->
-<div align="center">
-  <img width="100%" src="https://vercel.app" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0F3A87,100:F4A3B8&height=100&section=footer"/>
 
 </div>
