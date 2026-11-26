@@ -21,19 +21,19 @@
 
 ## 📊 Gráfico de contribuições
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParaTEA2026&bg_color=0D1117&color=EA638C&line=EA638C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParaTEA2026&bg_color=000080&color=000080&line=000080&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <br>
 
 ## 📈 Estatísticas do GitHub
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ParaTEA2026&show_icons=true&theme=radical&hide_border=true&title_color=EA638C&icon_color=EA638C"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ParaTEA2026&show_icons=true&theme=radical&hide_border=true&title_color=000080&icon_color=000080"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParaTEA2026&layout=compact&theme=radical&hide_border=true&title_color=EA638C"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParaTEA2026&layout=compact&theme=radical&hide_border=true&title_color=000080"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParaTEA2026&theme=radical&hide_border=true&ring=EA638C&fire=EA638C&currStreakLabel=EA638C" width="80%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParaTEA2026&theme=radical&hide_border=true&ring=000080&fire=000080&currStreakLabel=000080" width="80%"/>
 
 </div>
 
@@ -64,6 +64,6 @@ Nosso propósito é oferecer um espaço informativo e acessível, com recursos q
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:EA638C,100:F4A3B8&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:000080,100:000080&height=100&section=footer"/>
 
 </div>
